@@ -1,10 +1,18 @@
 Oreo Lock Screen Album Art Remover
 ==========
 * Note: This is the first time I've ever used Github, and Android Studio!!!!!
+* I have no clue what was needed to be done, but the SDK level had to be bumped up to target SDK 33. The application still has a min SDK level of 26 to support 8.0/.1.
 
-Tired of having your Lock Screen's beautiful wallpaper replaced by a horrible album art?
+Are you tired of Android Oreo's lockscreen wallpaper changing constantly during media playback? 
+Fear no more, this module will help YOU combat horribly pixelated album art from taking over your beautiful lockscreen!
 
-Install this module and your headaches are gone!
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/72b0fee6-ef84-4562-bd38-aa7d3c9ecf62">
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/4b785694-5057-4405-99b6-f0adf1f67658">
+</p>
 
 <p align="center">
   <a href="https://xdaforums.com/t/app-oreo-xposed-oreo-lock-screen-album-art-remover-v1-1-27-11-2018.3868485/"><img src="https://img.shields.io/badge/XDA-Thread-orange.svg"></a>
@@ -14,8 +22,8 @@ Install this module and your headaches are gone!
 ## Compatibility
 * [![Xposed](https://img.shields.io/badge/Xposed-v90--beta3-orange.svg)](https://forum.xda-developers.com/showthread.php?t=3034811)
 * [![Android Oreo+](https://img.shields.io/badge/Oreo-8.0+-blue.svg)](https://www.android.com/versions/oreo-8-0/)
-* Tested on OxygenOS OB30 (Android Oreo 8.0) for OP3T
-* Tested on Red Hydrogen One (Android Oreo 8.1, LSPosed w/ System Framework and SystemUI hooking)
+* Tested on OxygenOS OB30 (Android Oreo 8.0) for OP3T - Tiago Eusebio
+* Tested on Red Hydrogen One (Android Oreo 8.1, LSPosed w/ System Framework and SystemUI hooking) - lnro
 
 ## Reminder
 * Take a full backup before installing the module.
