@@ -7,7 +7,7 @@ Tired of having your Lock Screen's beautiful wallpaper replaced by a horrible al
 Install this module and your headaches are gone!
 
 <p align="center">
-  <a href="https://forum.xda-developers.com/xposed/modules/app-oreo-lock-screen-album-art-remover-t3868485"><img src="https://img.shields.io/badge/XDA-Thread-orange.svg"></a>
+  <a href="https://xdaforums.com/t/app-oreo-xposed-oreo-lock-screen-album-art-remover-v1-1-27-11-2018.3868485/"><img src="https://img.shields.io/badge/XDA-Thread-orange.svg"></a>
 </p>
 
 
