@@ -20,16 +20,16 @@ Fear no more, this module will help YOU combat horribly pixelated album art from
 
 
 ## Compatibility
-* [![Xposed](https://img.shields.io/badge/Xposed-v90--beta3-orange.svg)](https://forum.xda-developers.com/showthread.php?t=3034811)
-* [![Android Oreo+](https://img.shields.io/badge/Oreo-8.0+-blue.svg)](https://www.android.com/versions/oreo-8-0/)
+* LSPosed and EdXposed should work, as they function with Systemless root methods i.e Magisk
+* Tested to work with mywalkb's LSPosed mod (https://github.com/mywalkb/LSPosed_mod/releases)
 * Tested on OxygenOS OB30 (Android Oreo 8.0) for OP3T - Tiago Eusebio
 * Tested on Red Hydrogen One (Android Oreo 8.1, LSPosed w/ System Framework and SystemUI hooking) - lnro
 
-## Reminder
+## Reminders
 * Take a full backup before installing the module.
 * If you're using LSPosed, remember to hook into System Framework and SystemUI!
 
-## Changelog
+## Changelogs
 ### v1.0
 * First Release
 
