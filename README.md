@@ -7,11 +7,7 @@ Are you tired of Android Oreo's lockscreen wallpaper changing constantly during 
 Fear no more, this module will help YOU combat horribly pixelated album art from taking over your beautiful lockscreen!
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/72b0fee6-ef84-4562-bd38-aa7d3c9ecf62">
-</p>
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/4b785694-5057-4405-99b6-f0adf1f67658">
+  <img src="https://github.com/user-attachments/assets/79568667-7f88-4af8-8fe7-fb5a1ff687bd">
 </p>
 
 <p align="center">
