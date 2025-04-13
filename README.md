@@ -32,7 +32,7 @@ Fear no more, this module will help YOU combat horribly pixelated album art from
 ## Disclaimer 
 * I am not responsible for bricked devices, dead SD cards, thermonuclear war, 
 * or you getting fired because the alarm app failed. Please do some research 
-* if you have any concerns about features included in this ROM
+* if you have any concerns about features included in this module
 * before flashing it! YOU are choosing to make these modifications, and if
 * you blame me in any way for what happens to your device, I will laugh at you.
 * BOOM! goes the dynamite
